@@ -1,5 +1,5 @@
 # Portfolio
-This is classic Minesweeper game implemented in python(pycharm), featuring two difficulty levels, score tracking and user interface. 
+This is classic Minesweeper game implemented in python, featuring two difficulty levels, score tracking and user interface. 
 
 The goal of the project was to:
 1. Practise python programming in a bit longer exercise
@@ -26,7 +26,7 @@ saper-game/
 
 **Languages & Tools**
 - Python 3.12
-- `Tkinter` (for GUI) or `Pygame` *(depending on your implementation)*  
+- `Tkinter` and `Pygame` for GUI 
 - `random` module for board generation  
 - `time` module for game tracking  
 
